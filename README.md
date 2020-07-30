@@ -7,6 +7,8 @@ Author: Dolan
 
 //Current Tutorials
 
+Jester Mission Making Guide + Tutorial
+
 Global Music Trigger
 
 Global Text Trigger
