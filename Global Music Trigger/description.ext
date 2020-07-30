@@ -1,0 +1,52 @@
+class CfgMusic
+{
+sounds[] = {01,02};
+class 01
+	{
+name = "01";
+sound[] = {"music\intro.ogg", db+8, 1.0};
+titles[] = {0,""};
+	};
+	
+class 02
+	{
+name = "02";
+sound[] = {"music\intro2.ogg", db+8, 1.0};
+titles[] = {0,""};
+	};
+	
+class 03
+	{
+name = "03";
+sound[] = {"music\intro3.ogg", db+8, 1.0};
+titles[] = {0,""};
+	};
+
+class 04
+	{
+name = "04";
+sound[] = {"music\intro4.ogg", db+8, 1.0};
+titles[] = {0,""};
+	};
+
+class 05
+	{
+name = "05";
+sound[] = {"music\intro5.ogg", db+8, 1.0};
+titles[] = {0,""};
+	};
+
+class 06
+	{
+name = "06";
+sound[] = {"music\intro6.ogg", db+8, 1.0};
+titles[] = {0,""};
+	};
+
+class 07
+	{
+name = "07";
+sound[] = {"music\intro7.ogg", db+8, 1.0};
+titles[] = {0,""};
+	}
+};
